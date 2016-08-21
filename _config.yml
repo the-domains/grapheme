@@ -1,0 +1,14 @@
+layout_spectrum: 0.8094142267946154
+typography_spectrum: 0.5874301923904568
+color:
+  brandStrength: 0.3620472957845777
+  lightness: 0.8381609874777496
+  saturation: 0.944540239404887
+  rhythmicContrast: 0.18403837434016168
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+name: Grapheme
