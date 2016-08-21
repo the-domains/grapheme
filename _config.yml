@@ -11,6 +11,10 @@ color:
     - '#2667FF'
     - '#3B28CC'
 layout_spectrum: 0.8094142267946154
+author:
+  name: Thijs van Oorschot
+  email: info@thijsvanoorschot.nl
+  url: www.thijsvanoorschot.nl
 name: Grapheme
 title: Thijs van Oorschot
 description: Integrated Product Design Engineer
