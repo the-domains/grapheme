@@ -1,16 +1,16 @@
-layout_spectrum: 0.4462166177108884
-typography_spectrum: 0.3466493524610996
+layout_spectrum: 0.07590161985717714
+typography_spectrum: 0.44955634232610464
 color:
-  brandStrength: 0.2072967286221683
-  lightness: 0.5457872692495584
-  saturation: 0.4049338512122631
-  rhythmicContrast: 0.9025667526293546
+  brandStrength: 0.4875027481466532
+  lightness: 0.5285870507359505
+  saturation: 0.42631612182594836
+  rhythmicContrast: 0.6104268892668188
   brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 author:
   name: Thijs van Oorschot
   email: info@thijsvanoorschot.nl
